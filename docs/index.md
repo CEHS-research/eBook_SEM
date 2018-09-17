@@ -1,7 +1,7 @@
 --- 
 title: "Encyclopedia of Quantitative Methods in R, vol. 6: Structural Equation Modeling"
 author: "Sarah Schwartz & Tyson Barrett"
-date: "Last updated: 2018-09-07"
+date: "Last updated: 2018-09-17"
 documentclass: book
 description: "EFA, CFA, Path Analysis, and SEM."
 knit: "bookdown::render_book"
